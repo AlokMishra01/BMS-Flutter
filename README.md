@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # BMS-Flutter
+
+
+# https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/
+# https://codewithandrea.com/articles/flutter-project-structure/
+# https://localizely.com/blog/flutter-localization-step-by-step/
